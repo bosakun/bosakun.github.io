@@ -7,3 +7,9 @@ layout: home
 - LLMエージェントのセキュリティ
 - ロボット/VLAへの敵対的攻撃
 - 機械学習コンペ
+
+## Links
+
+- [X (@ユーザー名)](https://x.com/BoSaBoSa_ja)
+- [Zenn](https://zenn.dev/naoyabone)
+- [GitHub](https://github.com/bosakun)
