@@ -10,6 +10,6 @@ layout: home
 
 ## Links
 
-- [X (@ユーザー名)](https://x.com/BoSaBoSa_ja)
+- [X (@BoSaBoSa_ja)](https://x.com/BoSaBoSa_ja)
 - [Zenn](https://zenn.dev/naoyabone)
 - [GitHub](https://github.com/bosakun)
