@@ -4,7 +4,7 @@ layout: home
 
 某通信制大学の情報系1年。AIとセキュリティの境目あたりに興味があります。  
 基本的にXにいるので、覗きに来てください。  
-時々更新します。  
+時々更新します。
 
 - LLMエージェントのセキュリティ
 - LLMへの攻撃に対するセキュリティ
@@ -42,4 +42,5 @@ layout: home
 - [GitHub](https://github.com/bosakun)
 
 ## Mail
+
 naomobmail@gmail.com
