@@ -12,11 +12,6 @@ layout: home
 - 機械学習・LLMコンペ
 - LLMアーキテクチャの学習
 
-{%- comment -%}
-  ここから下を index.md の好きな位置に貼り付けてください。
-  site.data.zenn は _data/zenn.json を Jekyll が自動で読み込んだものです。
-{%- endcomment -%}
-
 ## 書いたもの
 
 {% if site.data.zenn and site.data.zenn.size > 0 %}
