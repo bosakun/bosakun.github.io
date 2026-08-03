@@ -4,7 +4,7 @@ layout: home
 
 某通信制大学の情報系1年。AIとセキュリティの境目あたりに興味があります。  
 基本的にXにいるので、覗きに来てください。  
-zennを見にきてください！
+zennも見にきてください！
 
 - LLMエージェントのセキュリティ
 - LLMへの攻撃に対するセキュリティ
@@ -13,7 +13,7 @@ zennを見にきてください！
 - LLMアーキテクチャの学習
 
 
-## 書いたもの
+## 書いたもの（zenn記事）
 
 {% if site.data.zenn and site.data.zenn.size > 0 %}
 <ul class="zenn-list">
