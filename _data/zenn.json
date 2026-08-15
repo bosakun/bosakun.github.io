@@ -1,5 +1,10 @@
 [
   {
+    "title": "Grid Worldで始める最小のWorld Model入門",
+    "link": "https://zenn.dev/naoyabone/articles/b491a0ce085c8f",
+    "date": "2026-08-14"
+  },
+  {
     "title": "AIセキュリティに関する論文メモ6〜CaMeL編〜",
     "link": "https://zenn.dev/naoyabone/articles/d932ec78cab1ba",
     "date": "2026-08-04"
@@ -18,10 +23,5 @@
     "title": "AIセキュリティに関する論文メモ⓷〜AgentDojo編〜",
     "link": "https://zenn.dev/naoyabone/articles/b61b8804099e52",
     "date": "2026-08-02"
-  },
-  {
-    "title": "AIセキュリティに関する論文メモ⓶〜GCG編〜",
-    "link": "https://zenn.dev/naoyabone/articles/98030d12b86b04",
-    "date": "2026-08-01"
   }
 ]
