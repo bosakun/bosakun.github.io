@@ -1,5 +1,10 @@
 [
   {
+    "title": "座標から画像へ：潜在空間で未来を予測するWorld Modelを実装してみた",
+    "link": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
+    "date": "2026-08-16"
+  },
+  {
     "title": "Grid Worldで始める最小のWorld Model入門",
     "link": "https://zenn.dev/naoyabone/articles/b491a0ce085c8f",
     "date": "2026-08-14"
@@ -18,10 +23,5 @@
     "title": "AIセキュリティに関する論文メモ4〜プロンプトの優先度問題〜",
     "link": "https://zenn.dev/naoyabone/articles/993b82cee8356f",
     "date": "2026-08-03"
-  },
-  {
-    "title": "AIセキュリティに関する論文メモ⓷〜AgentDojo編〜",
-    "link": "https://zenn.dev/naoyabone/articles/b61b8804099e52",
-    "date": "2026-08-02"
   }
 ]
