@@ -1,5 +1,10 @@
 [
   {
+    "title": "記憶を持った世界モデルを実装してみた",
+    "link": "https://zenn.dev/naoyabone/articles/1809dc83253eea",
+    "date": "2026-08-23"
+  },
+  {
     "title": "座標から画像へ：潜在空間で未来を予測するWorld Modelを実装してみた",
     "link": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
     "date": "2026-08-16"
@@ -17,11 +22,6 @@
   {
     "title": "AIセキュリティに関する論文メモ5〜StruQ編〜",
     "link": "https://zenn.dev/naoyabone/articles/b5cb8885928a02",
-    "date": "2026-08-03"
-  },
-  {
-    "title": "AIセキュリティに関する論文メモ4〜プロンプトの優先度問題〜",
-    "link": "https://zenn.dev/naoyabone/articles/993b82cee8356f",
     "date": "2026-08-03"
   }
 ]
