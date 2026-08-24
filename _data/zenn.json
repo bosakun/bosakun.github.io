@@ -1,5 +1,10 @@
 [
   {
+    "title": "世界モデルは「分からない」をどう表すのか",
+    "link": "https://zenn.dev/naoyabone/articles/b3e80f92a146b4",
+    "date": "2026-08-24"
+  },
+  {
     "title": "記憶を持った世界モデルを実装してみた",
     "link": "https://zenn.dev/naoyabone/articles/1809dc83253eea",
     "date": "2026-08-23"
@@ -18,10 +23,5 @@
     "title": "AIセキュリティに関する論文メモ6〜CaMeL編〜",
     "link": "https://zenn.dev/naoyabone/articles/d932ec78cab1ba",
     "date": "2026-08-04"
-  },
-  {
-    "title": "AIセキュリティに関する論文メモ5〜StruQ編〜",
-    "link": "https://zenn.dev/naoyabone/articles/b5cb8885928a02",
-    "date": "2026-08-03"
   }
 ]
