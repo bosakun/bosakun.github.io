@@ -1,5 +1,10 @@
 [
   {
+    "title": "世界モデルが長い未来を予測し、良い行動を選ぶまで",
+    "link": "https://zenn.dev/naoyabone/articles/505270960b695a",
+    "date": "2026-08-25"
+  },
+  {
     "title": "世界モデルは「分からない」をどう表すのか",
     "link": "https://zenn.dev/naoyabone/articles/b3e80f92a146b4",
     "date": "2026-08-24"
@@ -18,10 +23,5 @@
     "title": "Grid Worldで始める最小のWorld Model入門",
     "link": "https://zenn.dev/naoyabone/articles/b491a0ce085c8f",
     "date": "2026-08-14"
-  },
-  {
-    "title": "AIセキュリティに関する論文メモ6〜CaMeL編〜",
-    "link": "https://zenn.dev/naoyabone/articles/d932ec78cab1ba",
-    "date": "2026-08-04"
   }
 ]
