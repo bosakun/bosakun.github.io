@@ -1,5 +1,10 @@
 [
   {
+    "title": "物理世界へ出し、比較して、根拠を持って統合する",
+    "link": "https://zenn.dev/naoyabone/articles/6f7eee0365a51b",
+    "date": "2026-08-28"
+  },
+  {
     "title": "世界を何として表現するか：物体、動画token、複数感覚",
     "link": "https://zenn.dev/naoyabone/articles/dcd822d231050c",
     "date": "2026-08-26"
@@ -18,10 +23,5 @@
     "title": "記憶を持った世界モデルを実装してみた",
     "link": "https://zenn.dev/naoyabone/articles/1809dc83253eea",
     "date": "2026-08-23"
-  },
-  {
-    "title": "座標から画像へ：潜在空間で未来を予測するWorld Modelを実装してみた",
-    "link": "https://zenn.dev/naoyabone/articles/ebefbf5fcb90d6",
-    "date": "2026-08-16"
   }
 ]
